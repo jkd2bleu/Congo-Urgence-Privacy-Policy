@@ -1,4 +1,4 @@
-# Congo-Urgence-Privacy-Policy
+# Congo Urgences
 
 **Privacy Policy**
 

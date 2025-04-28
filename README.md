@@ -1,72 +1,31 @@
-# Congo Urgences
+# Privacy Policy for Congo Urgences
 
-**Privacy Policy**
+**Effective date:** April 28, 2025
 
-This privacy policy applies to the Congo Urgences app (hereby referred to as "Application") for mobile devices that was created by Jr Klaus MOMBO-NZAHOU (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+Congo Urgences ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle personal information when you use our mobile application, *Congo Urgences*.
 
-**Information Collection and Use**
+## Important Disclaimer
+*Congo Urgences* is a privately developed application by **Mr. Junior Klaus Dorlea MOMBO-NZAHOU** (Email: juniorklausd@gmail.com).  
+This application is **not affiliated with, endorsed by, or officially connected to** the government of the Republic of Congo or any of its agencies.  
+It is intended solely to provide a directory of useful and emergency telephone numbers for informational purposes.
 
-The Application collects information when you download and use it. This information may include information such as
+## Information Collection and Use
+Congo Urgences does **not collect, store, or share** any personal data from its users.  
+The application only provides publicly available information (telephone numbers of emergency services and public utilities).
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+## Data Security
+Since no user data is collected, there is no personal information stored, processed, or transmitted by the application.
 
-The Application does not gather precise information about the location of your mobile device.
+## Third-Party Services
+Congo Urgences does not use any third-party services that collect user data.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+## Children’s Privacy
+Our app does not address anyone under the age of 13, and we do not knowingly collect personally identifiable information from children under 13.
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+## Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Any changes will be posted by updating the Privacy Policy within the app and/or on the associated website if applicable. We encourage you to review this Privacy Policy periodically.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+## Contact Us
+If you have any questions or concerns about this Privacy Policy, you can contact us at:
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
-
-**Third Party Access**
-
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
-
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-
-The Service Provider may disclose User Provided and Automatically Collected Information:
-
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-
-**Opt-Out Rights**
-
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
-
-**Data Retention Policy**
-
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at juniorklausd@gmail.com and they will respond in a reasonable time.
-
-**Children**
-
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (juniorklausd@gmail.com) so that they will be able to take the necessary actions.
-
-**Security**
-
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
-
-**Changes**
-
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-
-This privacy policy is effective as of 2025-04-26
-
-**Your Consent**
-
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at juniorklausd@gmail.com.
+**Email:** juniorklausd@gmail.com
